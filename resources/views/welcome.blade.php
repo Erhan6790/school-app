@@ -13,7 +13,7 @@
         <!-- Tailwind CSS -->
         <script src="https://cdn.tailwindcss.com"></script>
     </head>
-    <body class="antialiased bg-gray-100">
+    <body class="antialiased bg-blue-500">
         <!-- Navigatie -->
         <nav class="bg-white shadow">
             <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
